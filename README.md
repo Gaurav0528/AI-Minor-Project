@@ -1,0 +1,2 @@
+# AI-Minor-Project
+ minor
